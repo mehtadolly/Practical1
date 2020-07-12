@@ -1,3 +1,7 @@
 this is file1
 modified to check difference between stage file 
+<<<<<<< HEAD
 updated by feature1
+=======
+updated by feature2
+>>>>>>> feature2
